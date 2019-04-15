@@ -4,7 +4,7 @@ def get_first_name_of_season_winner(data, season)
        return into_array[:name].split(" ")[0]
      end
    end
-end
+
 
 
 def get_contestant_name(data, occupation)
